@@ -20,6 +20,7 @@ public class Factorial {
             fact = fact*c;
  
          System.out.println("Factorial of "+n+" is = "+fact);
+         System.out.println("Changes after My first commit!");
       }
 
     
